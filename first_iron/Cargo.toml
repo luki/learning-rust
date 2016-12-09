@@ -1,0 +1,8 @@
+[package]
+name = "first-iron"
+version = "0.1.0"
+authors = ["Lukas Andreas Muller <lamuller@protonmail.com>"]
+
+[dependencies]
+iron = "*"
+router = "*"
