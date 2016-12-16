@@ -1,5 +1,5 @@
 fn someWhat<T, U>(type1: T, type2: U) -> (U, T) {
-    return (type2, type1);
+    (type2, type1)
 }
 
 fn main() {
